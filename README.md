@@ -1,4 +1,6 @@
-## Hi there 👋
+Greetings Earthlings!
+
+This is the beginning I suppose. Of learning new skills an tools to solve new problems. 
 
 <!--
 **T-Hunt32/T-Hunt32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
